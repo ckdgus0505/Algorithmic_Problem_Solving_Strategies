@@ -58,7 +58,7 @@
   * 문제: [너드인가, 너드가 아닌가?](https://www.algospot.com/judge/problem/read/NERDS)
 ### 기초 자료 구조
 * 비트 마스크
-  * 문제: [졸업 학기](https://www.algospot.com/judge/problem/read/GRADUATION)
+  * 문제: [졸업 학기](https://www.algospot.com/judge/problem/read/GRADUATION) [X]
 * 부분 합
   *  문제 : [크리스마스 인형](https://www.algospot.com/judge/problem/read/CHRISTMAS)
 * 선형 자료 구조
