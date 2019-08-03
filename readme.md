@@ -99,7 +99,7 @@
   * 문제: [어린이날](https://www.algospot.com/judge/problem/read/CHILDRENDAY)
   * 문제: [하노이의 탑](https://www.algospot.com/judge/problem/read/HANOI4B)
 * 최단 경로 알고리즘
-  * 문제: [신호 라우팅](https://www.algospot.com/judge/problem/read/ROUTING) [X]
+  * 문제: [신호 라우팅](https://www.algospot.com/judge/problem/read/ROUTING) [O]
   * 문제: [소방차](https://www.algospot.com/judge/problem/read/FIRETRUCKS)
   * 문제: [철인 N종 경기](https://www.algospot.com/judge/problem/read/NTHLON)
   * 문제: [시간여행](https://www.algospot.com/judge/problem/read/TIMETRIP)
