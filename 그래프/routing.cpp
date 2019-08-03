@@ -2,6 +2,7 @@
 #include <vector>
 #include <queue>
 #include <cstdio>
+#include <cmath>
 #define MAX 987654321
 using namespace std;
 
@@ -23,10 +24,10 @@ int main(void){
       int a, b;
       double c;
       cin >> a >> b >> c; // a,b,c는 각각 src, dst, weight
-      adj[a].push_back(make_pair(c,b)); // weight를 먼저 저장
+      adj[a].push_back(make_pair(log10(c),b)); // weight를 먼저 저장
     }
     vector<double> ans = dijkstra(0);
-    printf("%.10f\n", ans[n-1]);
+    printf("%.10f\n", pow(10, ans[n-1]));
   }
   return 0;
 }
@@ -34,8 +35,8 @@ int main(void){
 vector<double> dijkstra(int src) {
   vector<double> dist(n, MAX);
   priority_queue<pair<double, int>> pq;
-  dist[src] = 1;
-  pq.push(make_pair(-1, src));
+  dist[src] = 0;
+  pq.push(make_pair(0, src));
 
   while(!pq.empty()){
     int here = pq.top().second;
@@ -44,7 +45,7 @@ vector<double> dijkstra(int src) {
     if(dist[here] < cost) continue;
     for(int i = 0; i < adj[here].size(); i++) {
       int there = adj[here][i].second;
-      double nextDist = cost * adj[here][i].first;
+      double nextDist = cost + adj[here][i].first;
       if(dist[there] > nextDist) {
         dist[there] = nextDist;
         pq.push(make_pair(-nextDist, there));
