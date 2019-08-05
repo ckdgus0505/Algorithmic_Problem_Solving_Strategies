@@ -79,7 +79,7 @@
 * 우선순위 큐와 힙
   * 문제: [변화하는 중간 값](https://www.algospot.com/judge/problem/read/RUNNINGMEDIAN)
 * 구간 트리
-  * 문제: [등산로](https://www.algospot.com/judge/problem/read/MORDOR)
+  * 문제: [등산로](https://www.algospot.com/judge/problem/read/MORDOR) [O]
   * 문제: [족보 탐험](https://www.algospot.com/judge/problem/read/FAMILYTREE)
   * 문제: [삽입 정렬 시간 재기](https://www.algospot.com/judge/problem/read/MEASURETIME)
 * 상호 배타적 집합
@@ -101,7 +101,7 @@
 * 최단 경로 알고리즘
   * 문제: [신호 라우팅](https://www.algospot.com/judge/problem/read/ROUTING) [O]
   * 문제: [소방차](https://www.algospot.com/judge/problem/read/FIRETRUCKS) [O]
-  * 문제: [철인 N종 경기](https://www.algospot.com/judge/problem/read/NTHLON)
+  * 문제: [철인 N종 경기](https://www.algospot.com/judge/problem/read/NTHLON) [?]
   * 문제: [시간여행](https://www.algospot.com/judge/problem/read/TIMETRIP)
   * 문제: [음주 운전 단속](https://www.algospot.com/judge/problem/read/DRUNKEN)
   * 문제: [선거 공약](https://www.algospot.com/judge/problem/read/PROMISES)
