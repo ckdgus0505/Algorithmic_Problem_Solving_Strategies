@@ -81,7 +81,7 @@
 * 구간 트리
   * 문제: [등산로](https://www.algospot.com/judge/problem/read/MORDOR) [O]
   * 문제: [족보 탐험](https://www.algospot.com/judge/problem/read/FAMILYTREE)
-  * 문제: [삽입 정렬 시간 재기](https://www.algospot.com/judge/problem/read/MEASURETIME)
+  * 문제: [삽입 정렬 시간 재기](https://www.algospot.com/judge/problem/read/MEASURETIME) [?]
 * 상호 배타적 집합
   * 문제: [에디터 전쟁](https://www.algospot.com/judge/problem/read/EDITORWARS)
 * 트라이
