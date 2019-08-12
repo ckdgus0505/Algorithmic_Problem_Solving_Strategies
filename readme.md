@@ -83,7 +83,7 @@
   * 문제: [족보 탐험](https://www.algospot.com/judge/problem/read/FAMILYTREE)
   * 문제: [삽입 정렬 시간 재기](https://www.algospot.com/judge/problem/read/MEASURETIME) [?]
 * 상호 배타적 집합
-  * 문제: [에디터 전쟁](https://www.algospot.com/judge/problem/read/EDITORWARS)
+  * 문제: [에디터 전쟁](https://www.algospot.com/judge/problem/read/EDITORWARS) [X]
 * 트라이
   * 문제: [안녕히, 그리고 물고기는 고마웠어요!](https://www.algospot.com/judge/problem/read/SOLONG)
   * 문제: [보안종결자](https://www.algospot.com/judge/problem/read/NH)
